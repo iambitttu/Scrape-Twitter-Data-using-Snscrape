@@ -16,3 +16,13 @@ Twitter: users, user profiles, hashtags, searches, tweets (single or surrounding
 ## Installation
 
 pip install snscrape
+
+#Scraping
+
+-install Snscrape library and then import twitter module.
+
+-then Scrape 1000 trending tweets of #python from twitter
+
+-Create Dataframe by Importing Pandas Library
+
+-then Store it in a CSV format file.
