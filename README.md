@@ -1,4 +1,4 @@
-# Snscrape Documentation
+# Scrape Twitter Data using snscrape
 
 ## Introduction
 snscrape is a powerful scraping library designed to extract data from various social networking services (SNS). It provides functionality to scrape user profiles, hashtags, searches, and other relevant information from popular platforms such as Facebook, Instagram, Telegram, and Twitter. With snscrape, you can easily gather data for analysis, research, or any other purpose.
