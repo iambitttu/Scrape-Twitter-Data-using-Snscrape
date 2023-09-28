@@ -1,4 +1,4 @@
-Scrape Twitter Data using snscrape
+# Scrape Twitter Data using snscrape
 
 Introduction:
 This documentation provides an overview of the project on scraping Twitter data using snscrape. The objective of this project is to extract and analyze data from Twitter to gain insights, understand trends, and perform sentiment analysis. snscrape is a Python library that allows easy access to Twitter's public APIs and provides efficient methods for scraping tweets and user information.
